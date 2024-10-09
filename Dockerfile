@@ -1,5 +1,5 @@
 # Base image
-FROM ubuntu:22.04
+FROM ubuntu:mantic-20240530
 
 # Labels and Credits
 LABEL \
